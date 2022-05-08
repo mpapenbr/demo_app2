@@ -1,0 +1,2 @@
+my_apps:
+    demo_app2_version: v0.0.0
